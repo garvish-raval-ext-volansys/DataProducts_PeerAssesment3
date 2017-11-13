@@ -1,0 +1,12 @@
+name: DataProducts_PeerAssesment3
+title: DataProducts_PeerAssesment3
+username:
+account: garvish
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 234923
+bundleId: 1072667
+url: https://garvish.shinyapps.io/DataProducts_PeerAssesment3/
+when: 1510576085.83484
+asMultiple: FALSE
+asStatic: FALSE
